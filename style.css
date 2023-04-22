@@ -1,0 +1,44 @@
+body{
+    width: 500px;
+    background-color: aquamarine;
+    
+
+}
+
+html{
+    background-color: black;
+
+}
+
+/* .cabecalho{
+    display: flex;
+    justify-content: center;
+
+
+} */
+
+.informacoes{
+    display: flex;
+    justify-content: flex-end;
+    border: solid #ccc 5px;
+    text-decoration: none;
+    
+}
+
+.baloes{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.imagem{
+    height: auto;
+    width: 100%;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
